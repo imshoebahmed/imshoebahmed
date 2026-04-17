@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Shoeb Ahmed 👋
 
-<!--
-**imshoebahmed/imshoebahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MCA Student | Aspiring Software Engineer  
+💻 Full-Stack Developer | AI Enthusiast  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 💡 Languages: Python, Java, JavaScript  
+- 🌐 Frontend: HTML, CSS, React (Learning)  
+- ⚙️ Backend: Node.js, Express.js (Learning)  
+- 🗄️ Database: Firebase, MySQL  
+- 🤖 AI: API Integration (Gemini)  
+- 🛠️ Tools: Git, GitHub   
+
+---
+
+## 📌 Projects
+- 🔹 AI Smart Business Forecast  
+- 🔹 MCA Job Matching Platform  
+- 🔹 OmniFetch (In Progress) – Full-stack data aggregation platform using Node.js, Express, React, Firebase & AI APIs
+- 🔹 Portfolio Website (Planned)    
+
+---
+
+## 📈 Currently Learning
+- Data Structures & Algorithms  
+- Full-Stack Development  
+- AI & Machine Learning  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: 

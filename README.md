@@ -1,6 +1,6 @@
 # Hi, I'm Shoeb Ahmed 👋
 
-🚀 MCA Student | Aspiring Software Engineer
+ | Aspiring Software Engineer
 💻 Full-Stack Developer | AI Enthusiast
 📍 India
 
@@ -37,4 +37,4 @@
 
 ## 📫 Connect with Me
 
-* LinkedIn: Coming Soon
+* LinkedIn:  linkedin.com/in/shoeb4hmed
